@@ -1,0 +1,21 @@
+/*
+Theme Name: TCanby Publications
+Theme URI: http://canbypublications.com/
+Author: K4 Media
+Author URI: https://k4media.com/
+Description: Theme for Canby Publications, an online guidebook to Cambodia
+Version: 1.0.1
+*/
+
+
+*, *:before, *:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+html, body {
+	background-color: #fff;
+	color: #555;
+	margin: 0;
+	padding: 0;
+}
